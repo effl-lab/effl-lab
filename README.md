@@ -1,4 +1,6 @@
-We are **Efficient Learning Lab** at POSTECH EE, but we like to go by "EffL."
+We are **Efficient Learning Lab** (or call us _EffL_), a machine learning research group at [POSTECH EE](https://ee.postech.ac.kr),
+
+Please visit our [group webpage](https://effl.postech.ac.kr) to find out more about us!
 
 <!---
 effl-lab/effl-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
