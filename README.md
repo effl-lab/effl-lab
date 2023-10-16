@@ -1,4 +1,4 @@
-We are **Efficient Learning Lab** (or call us _EffL_), a machine learning research group at [POSTECH EE](https://ee.postech.ac.kr),
+We are **Efficient Learning Lab** (or call us _EffL_), a machine learning research group at [POSTECH EE](https://ee.postech.ac.kr).
 
 Please visit our [group webpage](https://effl.postech.ac.kr) to find out more about us!
 
